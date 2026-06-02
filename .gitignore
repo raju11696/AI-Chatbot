@@ -1,0 +1,39 @@
+# Virtual Environment
+venv/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Hugging Face Models Cache
+.cache/
+huggingface/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Uploaded Files
+uploads/
+
+# Generated Reports
+reports/
+
+# Temporary Files
+temp/
+tmp/
+
+# Environment Variables
+.env
